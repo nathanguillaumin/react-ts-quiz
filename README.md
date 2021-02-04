@@ -1,5 +1,5 @@
 # Quiz réalisé en Typescript + React
-J'ai utilisé l'API (https://example.com/ "OpenTDB") qui fournit des questions de culture générale en anglais.
+J'ai utilisé l'API [Lien](https://example.com/ "OpenTDB") qui fournit des questions de culture générale en anglais.
 Le quiz possède 10 questions, on peut y voir son score.
 
 
